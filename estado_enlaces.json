@@ -1,0 +1,17 @@
+{
+  "fecha": "2026-10-31T05:07:24.536Z",
+  "pastes": [
+    {
+      "id": "a0001",
+      "activos": 1,
+      "total": 1,
+      "estado": "advertencia",
+      "detalles": [
+        {
+          "url": "https://filemoon.sx/e/ejemplo",
+          "estado": "activo"
+        }
+      ]
+    }
+  ]
+}
