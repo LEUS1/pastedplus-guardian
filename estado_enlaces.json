@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-31T05:07:24.536Z",
+  "fecha": "2026-10-31T11:17:40.145Z",
   "pastes": [
     {
       "id": "a0001",
@@ -10,6 +10,26 @@
         {
           "url": "https://filemoon.sx/e/ejemplo",
           "estado": "activo"
+        }
+      ]
+    },
+    {
+      "id": "0000",
+      "activos": 0,
+      "total": 3,
+      "estado": "critico",
+      "detalles": [
+        {
+          "url": "1",
+          "estado": "error"
+        },
+        {
+          "url": "2",
+          "estado": "error"
+        },
+        {
+          "url": "3",
+          "estado": "error"
         }
       ]
     }
