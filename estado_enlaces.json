@@ -1,9 +1,9 @@
 {
-  "fecha": "2026-11-09T14:28:07.455Z",
+  "fecha": "2026-11-10T13:49:37.159Z",
   "pastes": [
     {
       "id": "1010",
-      "activos": 226,
+      "activos": 228,
       "total": 240,
       "estado": "ok",
       "detalles": [
@@ -577,11 +577,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239051",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239052",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://www.mediafire.com/?comkunb66p1fd9g",
@@ -971,7 +971,7 @@
     },
     {
       "id": "1011",
-      "activos": 191,
+      "activos": 193,
       "total": 204,
       "estado": "ok",
       "detalles": [
@@ -1421,7 +1421,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239065",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239066",
@@ -1429,7 +1429,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239067",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239068",
@@ -1795,7 +1795,7 @@
     },
     {
       "id": "1012",
-      "activos": 194,
+      "activos": 198,
       "total": 207,
       "estado": "ok",
       "detalles": [
@@ -2213,7 +2213,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239020",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239021",
@@ -2225,7 +2225,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239023",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239024",
@@ -2253,11 +2253,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239030",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239031",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239032",
@@ -2631,7 +2631,7 @@
     },
     {
       "id": "1013",
-      "activos": 194,
+      "activos": 197,
       "total": 207,
       "estado": "ok",
       "detalles": [
@@ -3049,7 +3049,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239020",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239021",
@@ -3085,7 +3085,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239029",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239030",
@@ -3097,7 +3097,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239032",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://www.mediafire.com/?25hkxspju25duhe",
@@ -3467,7 +3467,7 @@
     },
     {
       "id": "1014",
-      "activos": 194,
+      "activos": 199,
       "total": 207,
       "estado": "ok",
       "detalles": [
@@ -3893,7 +3893,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239022",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239023",
@@ -3901,7 +3901,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239024",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239025",
@@ -3909,11 +3909,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239026",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239027",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239028",
@@ -3933,7 +3933,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239032",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://www.mediafire.com/?25hkxspju25duhe",
@@ -4303,13 +4303,13 @@
     },
     {
       "id": "a0001",
-      "activos": 1,
+      "activos": 0,
       "total": 1,
-      "estado": "advertencia",
+      "estado": "critico",
       "detalles": [
         {
           "url": "https://filemoon.sx/e/ejemplo",
-          "estado": "activo"
+          "estado": "error"
         }
       ]
     },
@@ -4335,7 +4335,7 @@
     },
     {
       "id": "0001",
-      "activos": 194,
+      "activos": 197,
       "total": 207,
       "estado": "ok",
       "detalles": [
@@ -4357,7 +4357,7 @@
         },
         {
           "url": "https://bysezejataos.com/d/rdchfclqpui8",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://bysezejataos.com/d/owcznzizd6d0",
@@ -4761,7 +4761,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239022",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239023",
@@ -4769,7 +4769,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239024",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239025",
@@ -4777,11 +4777,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239026",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239027",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239028",
@@ -5171,7 +5171,7 @@
     },
     {
       "id": "0002",
-      "activos": 226,
+      "activos": 228,
       "total": 240,
       "estado": "ok",
       "detalles": [
@@ -5729,7 +5729,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239047",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239048",
@@ -5741,7 +5741,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239050",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239051",
@@ -6139,7 +6139,7 @@
     },
     {
       "id": "0003",
-      "activos": 191,
+      "activos": 193,
       "total": 204,
       "estado": "ok",
       "detalles": [
@@ -6585,7 +6585,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239064",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239065",
@@ -6621,7 +6621,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239073",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://www.mediafire.com/?e14qwo2dqq01wxt",
@@ -6963,7 +6963,7 @@
     },
     {
       "id": "0004",
-      "activos": 180,
+      "activos": 182,
       "total": 192,
       "estado": "ok",
       "detalles": [
@@ -7357,7 +7357,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239075",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239076",
@@ -7381,7 +7381,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239081",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239082",
@@ -7739,7 +7739,7 @@
     },
     {
       "id": "0005",
-      "activos": 180,
+      "activos": 182,
       "total": 192,
       "estado": "ok",
       "detalles": [
@@ -8129,7 +8129,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239086",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239087",
@@ -8161,7 +8161,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239094",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239095",
