@@ -1,9 +1,9 @@
 {
-  "fecha": "2026-11-15T12:59:55.907Z",
+  "fecha": "2026-11-16T14:04:16.767Z",
   "pastes": [
     {
       "id": "1010",
-      "activos": 226,
+      "activos": 230,
       "total": 240,
       "estado": "ok",
       "detalles": [
@@ -229,7 +229,7 @@
         },
         {
           "url": "https://voe.sx/oiwo5q08oji9",
-          "estado": "caido"
+          "estado": "activo"
         },
         {
           "url": "https://voe.sx/xra0acornnmu",
@@ -241,7 +241,7 @@
         },
         {
           "url": "https://voe.sx/jnxxbdusfg1h",
-          "estado": "caido"
+          "estado": "activo"
         },
         {
           "url": "https://voe.sx/cjpayziz4pe7",
@@ -537,7 +537,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239041",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239042",
@@ -565,7 +565,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239048",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://vk.com/video-236916872_456239049",
@@ -971,7 +971,7 @@
     },
     {
       "id": "1011",
-      "activos": 191,
+      "activos": 192,
       "total": 204,
       "estado": "ok",
       "detalles": [
@@ -1209,7 +1209,7 @@
         },
         {
           "url": "https://voe.sx/yx4pj2tkm9fx",
-          "estado": "caido"
+          "estado": "activo"
         },
         {
           "url": "https://voe.sx/hg66qmq7eljd",
@@ -5535,7 +5535,7 @@
     },
     {
       "id": "0002",
-      "activos": 274,
+      "activos": 276,
       "total": 288,
       "estado": "ok",
       "detalles": [
@@ -5809,7 +5809,7 @@
         },
         {
           "url": "https://voe.sx/oiwo5q08oji9",
-          "estado": "caido"
+          "estado": "activo"
         },
         {
           "url": "https://voe.sx/xra0acornnmu",
@@ -5821,7 +5821,7 @@
         },
         {
           "url": "https://voe.sx/jnxxbdusfg1h",
-          "estado": "caido"
+          "estado": "activo"
         },
         {
           "url": "https://voe.sx/cjpayziz4pe7",
@@ -6695,7 +6695,7 @@
     },
     {
       "id": "0003",
-      "activos": 310,
+      "activos": 312,
       "total": 324,
       "estado": "ok",
       "detalles": [
@@ -6981,7 +6981,7 @@
         },
         {
           "url": "https://voe.sx/e/yx4pj2tkm9fx",
-          "estado": "caido"
+          "estado": "activo"
         },
         {
           "url": "https://voe.sx/e/hg66qmq7eljd",
@@ -7605,7 +7605,7 @@
         },
         {
           "url": "https://voe.sx/yx4pj2tkm9fx",
-          "estado": "caido"
+          "estado": "activo"
         },
         {
           "url": "https://voe.sx/hg66qmq7eljd",
@@ -7999,7 +7999,7 @@
     },
     {
       "id": "0004",
-      "activos": 205,
+      "activos": 204,
       "total": 216,
       "estado": "ok",
       "detalles": [
@@ -8313,7 +8313,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239079",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239080",
@@ -8871,7 +8871,7 @@
     },
     {
       "id": "0005",
-      "activos": 253,
+      "activos": 252,
       "total": 276,
       "estado": "ok",
       "detalles": [
@@ -9213,7 +9213,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239086",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239087",
@@ -9983,7 +9983,7 @@
     },
     {
       "id": "0006",
-      "activos": 325,
+      "activos": 338,
       "total": 338,
       "estado": "ok",
       "detalles": [
@@ -10300,56 +10300,56 @@
           "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384717884116",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384717884116",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384717818580",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384717818580",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384721947348",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384721947348",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384724765396",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384724765396",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384726797012",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384726797012",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384730335956",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384730335956",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384732367572",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384732367572",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384737413844",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384737413844",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384752356052",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384752356052",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384756026068",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384756026068",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384760220372",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384760220372",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384763562708",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384763562708",
+          "estado": "activo"
         },
         {
-          "url": "https://ok.ru/16384768740052",
-          "estado": "caido"
+          "url": "https://ok.ru/videoembed/16384768740052",
+          "estado": "activo"
         },
         {
           "url": "https://morencius.com/embed/kn1yde1e6gs5",
