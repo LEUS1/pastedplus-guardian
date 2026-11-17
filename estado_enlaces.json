@@ -1,9 +1,9 @@
 {
-  "fecha": "2026-11-16T14:04:16.767Z",
+  "fecha": "2026-11-17T14:57:44.798Z",
   "pastes": [
     {
       "id": "1010",
-      "activos": 230,
+      "activos": 226,
       "total": 240,
       "estado": "ok",
       "detalles": [
@@ -229,7 +229,7 @@
         },
         {
           "url": "https://voe.sx/oiwo5q08oji9",
-          "estado": "activo"
+          "estado": "caido"
         },
         {
           "url": "https://voe.sx/xra0acornnmu",
@@ -241,7 +241,7 @@
         },
         {
           "url": "https://voe.sx/jnxxbdusfg1h",
-          "estado": "activo"
+          "estado": "caido"
         },
         {
           "url": "https://voe.sx/cjpayziz4pe7",
@@ -537,7 +537,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239041",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239042",
@@ -565,7 +565,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239048",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239049",
@@ -971,7 +971,7 @@
     },
     {
       "id": "1011",
-      "activos": 192,
+      "activos": 191,
       "total": 204,
       "estado": "ok",
       "detalles": [
@@ -1209,7 +1209,7 @@
         },
         {
           "url": "https://voe.sx/yx4pj2tkm9fx",
-          "estado": "activo"
+          "estado": "caido"
         },
         {
           "url": "https://voe.sx/hg66qmq7eljd",
@@ -5535,7 +5535,7 @@
     },
     {
       "id": "0002",
-      "activos": 276,
+      "activos": 274,
       "total": 288,
       "estado": "ok",
       "detalles": [
@@ -5809,7 +5809,7 @@
         },
         {
           "url": "https://voe.sx/oiwo5q08oji9",
-          "estado": "activo"
+          "estado": "caido"
         },
         {
           "url": "https://voe.sx/xra0acornnmu",
@@ -5821,7 +5821,7 @@
         },
         {
           "url": "https://voe.sx/jnxxbdusfg1h",
-          "estado": "activo"
+          "estado": "caido"
         },
         {
           "url": "https://voe.sx/cjpayziz4pe7",
@@ -6695,7 +6695,7 @@
     },
     {
       "id": "0003",
-      "activos": 312,
+      "activos": 310,
       "total": 324,
       "estado": "ok",
       "detalles": [
@@ -6981,7 +6981,7 @@
         },
         {
           "url": "https://voe.sx/e/yx4pj2tkm9fx",
-          "estado": "activo"
+          "estado": "caido"
         },
         {
           "url": "https://voe.sx/e/hg66qmq7eljd",
@@ -7605,7 +7605,7 @@
         },
         {
           "url": "https://voe.sx/yx4pj2tkm9fx",
-          "estado": "activo"
+          "estado": "caido"
         },
         {
           "url": "https://voe.sx/hg66qmq7eljd",
@@ -7999,8 +7999,8 @@
     },
     {
       "id": "0004",
-      "activos": 204,
-      "total": 216,
+      "activos": 216,
+      "total": 228,
       "estado": "ok",
       "detalles": [
         {
@@ -8049,6 +8049,54 @@
         },
         {
           "url": "https://bysezejataos.com/d/pawd9osheamo",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/4mVgjxlWQJCOv1",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/zk9jbqpvmqFY1J3",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/6apJVvr3qmuZ1v",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/wggYYWRmMwFJ2BV",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/DQM2ex0YAWFkoKq",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/94jW1VZ4w2iak6L",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/Kk6K3jGYpvSgOJ",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/8ZPy6wr3L3hXkQ",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/MAWqMek4BXcwWd",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/Q0gK4OyXM3TGvp",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/23gGqqQ6lPcZJX3",
+          "estado": "activo"
+        },
+        {
+          "url": "https://streamtape.com/e/rBYqd84dR7ixDV",
           "estado": "activo"
         },
         {
