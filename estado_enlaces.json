@@ -1,9 +1,9 @@
 {
-  "fecha": "2026-11-19T14:45:01.404Z",
+  "fecha": "2026-11-20T14:27:11.033Z",
   "pastes": [
     {
       "id": "1010",
-      "activos": 232,
+      "activos": 226,
       "total": 240,
       "estado": "ok",
       "detalles": [
@@ -537,11 +537,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239041",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239042",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239043",
@@ -549,7 +549,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239044",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239045",
@@ -557,7 +557,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239046",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239047",
@@ -565,7 +565,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239048",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239049",
@@ -573,7 +573,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239050",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239051",
@@ -971,7 +971,7 @@
     },
     {
       "id": "1011",
-      "activos": 202,
+      "activos": 190,
       "total": 204,
       "estado": "ok",
       "detalles": [
@@ -1409,39 +1409,39 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239062",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239063",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239064",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239065",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239066",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239067",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239068",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239069",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239070",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239071",
@@ -1449,11 +1449,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239072",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239073",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://www.mediafire.com/?e14qwo2dqq01wxt",
@@ -1669,7 +1669,7 @@
         },
         {
           "url": "https://www.yourupload.com/watch/CLn5l7vUH850",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://www.yourupload.com/watch/1yhei5D0exBE",
@@ -1795,7 +1795,7 @@
     },
     {
       "id": "1012",
-      "activos": 202,
+      "activos": 181,
       "total": 207,
       "estado": "ok",
       "detalles": [
@@ -2213,7 +2213,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239020",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239021",
@@ -2221,7 +2221,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239022",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239023",
@@ -2233,19 +2233,19 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239025",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239026",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239027",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239028",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239029",
@@ -2257,11 +2257,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239031",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239032",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://www.mediafire.com/?25hkxspju25duhe",
@@ -2317,55 +2317,55 @@
         },
         {
           "url": "https://dhtpre.com/file/93ngyzvuh1kk",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/mpju6lajs3ex",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/e6vb475h67ax",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/zth9pohx15h3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/cdmuxm805bim",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/f8194ai9iz3a",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/3l5z76pjhxv2",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/363v60l952wn",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/o41uh7is8cwt",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/ihm3rgqgqdsv",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/8mkhirhw47bj",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/it3sdjfw9mml",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/wqk92wkratj3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://streamwish.to/gghju78127ao",
@@ -2631,7 +2631,7 @@
     },
     {
       "id": "1013",
-      "activos": 207,
+      "activos": 180,
       "total": 207,
       "estado": "ok",
       "detalles": [
@@ -2801,7 +2801,7 @@
         },
         {
           "url": "https://mixdrop.ag/f/1nn91x7ebxpv4e",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://mixdrop.ag/f/7kk9wvxes4v1wp",
@@ -3049,55 +3049,55 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239020",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239021",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239022",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239023",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239024",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239025",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239026",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239027",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239028",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239029",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239030",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239031",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239032",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://www.mediafire.com/?25hkxspju25duhe",
@@ -3153,55 +3153,55 @@
         },
         {
           "url": "https://dhtpre.com/file/93ngyzvuh1kk",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/mpju6lajs3ex",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/e6vb475h67ax",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/zth9pohx15h3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/cdmuxm805bim",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/f8194ai9iz3a",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/3l5z76pjhxv2",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/363v60l952wn",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/o41uh7is8cwt",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/ihm3rgqgqdsv",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/8mkhirhw47bj",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/it3sdjfw9mml",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/wqk92wkratj3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://streamwish.to/gghju78127ao",
@@ -3467,7 +3467,7 @@
     },
     {
       "id": "1014",
-      "activos": 199,
+      "activos": 181,
       "total": 207,
       "estado": "ok",
       "detalles": [
@@ -3893,11 +3893,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239022",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239023",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239024",
@@ -3913,7 +3913,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239027",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239028",
@@ -3921,7 +3921,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239029",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239030",
@@ -3933,7 +3933,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239032",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://www.mediafire.com/?25hkxspju25duhe",
@@ -3989,55 +3989,55 @@
         },
         {
           "url": "https://dhtpre.com/file/93ngyzvuh1kk",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/mpju6lajs3ex",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/e6vb475h67ax",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/zth9pohx15h3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/cdmuxm805bim",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/f8194ai9iz3a",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/3l5z76pjhxv2",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/363v60l952wn",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/o41uh7is8cwt",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/ihm3rgqgqdsv",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/8mkhirhw47bj",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/it3sdjfw9mml",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/wqk92wkratj3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://streamwish.to/gghju78127ao",
@@ -4335,7 +4335,7 @@
     },
     {
       "id": "0001",
-      "activos": 281,
+      "activos": 246,
       "total": 298,
       "estado": "ok",
       "detalles": [
@@ -4705,31 +4705,31 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239020",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239021",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239022",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239023",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239024",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239025",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239026",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239027",
@@ -4741,11 +4741,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239029",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239030",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239031",
@@ -4753,59 +4753,59 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239032",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/93ngyzvuh1kk",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/mpju6lajs3ex",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/e6vb475h67ax",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/zth9pohx15h3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/cdmuxm805bim",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/f8194ai9iz3a",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/3l5z76pjhxv2",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/363v60l952wn",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/o41uh7is8cwt",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/ihm3rgqgqdsv",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/8mkhirhw47bj",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/it3sdjfw9mml",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/embed/wqk92wkratj3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://streamwish.to/e/gghju78127ao",
@@ -5273,19 +5273,19 @@
         },
         {
           "url": "https://dhtpre.com/file/93ngyzvuh1kk",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/mpju6lajs3ex",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/e6vb475h67ax",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/zth9pohx15h3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/cdmuxm805bim",
@@ -5293,35 +5293,35 @@
         },
         {
           "url": "https://dhtpre.com/file/f8194ai9iz3a",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/3l5z76pjhxv2",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/363v60l952wn",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/o41uh7is8cwt",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/ihm3rgqgqdsv",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/8mkhirhw47bj",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/it3sdjfw9mml",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://dhtpre.com/file/wqk92wkratj3",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://streamwish.to/gghju78127ao",
@@ -5535,7 +5535,7 @@
     },
     {
       "id": "0002",
-      "activos": 282,
+      "activos": 274,
       "total": 288,
       "estado": "ok",
       "detalles": [
@@ -5925,7 +5925,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239041",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239042",
@@ -5941,11 +5941,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239045",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239046",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239047",
@@ -5953,23 +5953,23 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239048",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239049",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239050",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239051",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239052",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://morencius.com/file/9kv9r1olq5ob",
@@ -6695,7 +6695,7 @@
     },
     {
       "id": "0003",
-      "activos": 319,
+      "activos": 309,
       "total": 324,
       "estado": "ok",
       "detalles": [
@@ -6789,7 +6789,7 @@
         },
         {
           "url": "https://streamtape.com/e/b1Ze6y8vWYFPbK4",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://streamtape.com/e/lWgQxJZ86BcoRA",
@@ -7041,31 +7041,31 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239063",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239064",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239065",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239066",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239067",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239068",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239069",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239070",
@@ -7073,7 +7073,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239071",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239072",
@@ -7081,7 +7081,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239073",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://morencius.com/embed/d8nhry1jzvhx",
@@ -7999,7 +7999,7 @@
     },
     {
       "id": "0004",
-      "activos": 225,
+      "activos": 216,
       "total": 228,
       "estado": "ok",
       "detalles": [
@@ -8341,7 +8341,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239074",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239075",
@@ -8349,7 +8349,7 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239076",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239077",
@@ -8357,15 +8357,15 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239078",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239079",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239080",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239081",
@@ -8373,19 +8373,19 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239082",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239083",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239084",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239085",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://morencius.com/file/buzskr7izffn",
@@ -8919,7 +8919,7 @@
     },
     {
       "id": "0005",
-      "activos": 262,
+      "activos": 251,
       "total": 276,
       "estado": "ok",
       "detalles": [
@@ -8957,7 +8957,7 @@
         },
         {
           "url": "https://bysezejataos.com/d/79ccdrd74bmm",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://bysezejataos.com/d/xsq43xj6xenq",
@@ -9261,11 +9261,11 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239086",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239087",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239088",
@@ -9277,35 +9277,35 @@
         },
         {
           "url": "https://vk.com/video-236916872_456239090",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239091",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239092",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239093",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239094",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239095",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239096",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://vk.com/video-236916872_456239097",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://morencius.com/embed/jdo9rqw6wxsm",
@@ -11391,7 +11391,7 @@
     },
     {
       "id": "0007",
-      "activos": 298,
+      "activos": 300,
       "total": 312,
       "estado": "ok",
       "detalles": [
@@ -12461,7 +12461,7 @@
         },
         {
           "url": "https://streamwish.to/0jop4y6833za",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://streamwish.to/futuuicy4o24",
@@ -12497,7 +12497,7 @@
         },
         {
           "url": "https://streamwish.to/mqq167qxv212",
-          "estado": "error"
+          "estado": "activo"
         },
         {
           "url": "https://audinifer.com/vys4w57ecyev",
@@ -13903,7 +13903,7 @@
     },
     {
       "id": "0009",
-      "activos": 161,
+      "activos": 160,
       "total": 182,
       "estado": "ok",
       "detalles": [
@@ -14045,7 +14045,7 @@
         },
         {
           "url": "https://mixdrop.top/e/xwwlv4jmcoj7j9",
-          "estado": "activo"
+          "estado": "error"
         },
         {
           "url": "https://voe.sx/e/2resvl4ukeho",
@@ -14393,7 +14393,7 @@
         },
         {
           "url": "https://voe.sx/bjslzdpanohv",
-          "estado": "caido"
+          "estado": "error"
         },
         {
           "url": "https://voe.sx/laqus5nbk224",
